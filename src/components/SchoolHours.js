@@ -4,8 +4,12 @@ class SchoolHours extends Component {
   render() {
     return (
       <div>
-        <h3>School Hours</h3>
         <table>
+          <tr>
+            <td>
+              <h3>School Hours</h3>
+            </td>
+          </tr>
           <td>
             <tr>Homeroom: </tr>
             <tr>Period 1: </tr>
