@@ -5,9 +5,106 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 50px;
+  color: gold;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+table {
+  font-family: times, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: black;
+}
+
+td,
+th {
+  border: 5px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+button {
+  box-sizing: border-box;
+  border-color: #0366d6;
+  text-decoration: none;
+  background-color: #0366d6;
+  border: solid 1px #0366d6;
+  border-radius: 20px;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 10px;
+  padding: 30px 20px;
+}
+
+.skyscrapers {
+  object-fit: cover;
+  object-position: 100% 0;
+  width: 300px;
+  height: 337px;
+  border: 2px solid #36479b;
+}
+
+.homeHeader {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: oblique;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.footer-container {
+  border-radius: 0;
+  background-clip: border-box;
+  background-color: #343a40;
+  background-image: none;
+  background-origin: padding-box;
+  background-size: auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+.credential-heading {
+  font-style: oblique;
+}
+
+.img-responsive {
+  max-width: 300px;
+  max-height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 8px;
+}
+
+ul.foot_links {
+  padding: 0 15px;
+  margin: 0 50px 0px 50px;
+  position: relative;
+  font-size: 14px;
+  color: #fff;
+}
+
+.footer-hLine {
+  margin: 0px 50px 0px 25px;
+  color: #fff;
+}
+
+.navbar-container {
+  background-color: #343a40;
+}
+
+.logo {
 }
