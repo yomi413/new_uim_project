@@ -8,6 +8,13 @@ class Home extends Component {
     return (
       <div>
         <NavBar />
+        <center>
+          <img
+            className="logo"
+            src="https://i.imgur.com/UzrikKb.png"
+            alt="UIM: Full Steam Ahead"
+          />
+        </center>
         <h1>
           <center>Welcome to the Urban Institute of Mathematics</center>
         </h1>
