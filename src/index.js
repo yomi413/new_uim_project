@@ -9,6 +9,8 @@ import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
 import StudentPage from "./components/StudentPage";
 import ParentPage from "./components/ParentPage";
+import SeniorPage from "./components/SeniorPage";
+import Policies from "./components/Policies";
 
 ReactDOM.render(
   //   <Provider store={store}>
@@ -17,6 +19,8 @@ ReactDOM.render(
       <Route exact path="/" component={Home} />
       <Route exact path="/student-page" component={StudentPage} />
       <Route exact path="/parent-page" component={ParentPage} />
+      <Route exact path="/senior-page" component={SeniorPage} />
+      <Route exact path="/policies" component={Policies} />
     </Switch>
   </Router>,
   //   </Provider>,
