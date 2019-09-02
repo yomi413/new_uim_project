@@ -12,7 +12,7 @@ class Home extends Component {
           <img
             className="logo"
             src="https://i.imgur.com/UzrikKb.png"
-            alt="UIM: Full Steam Ahead"
+            alt="UIM - Full Steam Ahead"
           />
         </center>
         <h1>
@@ -31,7 +31,7 @@ class Home extends Component {
         <p>
           Our vision is to promote higher academic achievement for our scholars
           who will <strong>ALL</strong> ultimately be college-bound and able to
-          compete in the global economy and ever-changing marketplace."
+          compete in the global economy and ever-changing marketplace.
         </p>
 
         <SchoolHours />
