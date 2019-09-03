@@ -12,7 +12,8 @@ class NavBar extends Component {
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/parent-page">Parents</Nav.Link>
               <Nav.Link href="/student-page">Students</Nav.Link>
-              <Nav.Link href="/signup">Senior Information</Nav.Link>
+              <Nav.Link href="/senior-page">Senior Information</Nav.Link>
+              <Nav.Link href="/policies">Policies</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Navbar>
