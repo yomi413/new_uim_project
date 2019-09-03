@@ -9,17 +9,26 @@ class StudentPage extends Component {
         <h1>Student Newsletters</h1>
         <ul>
           <li>
-            <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/Newsletter.7th%20Grade.Cycle%201.pdf">
+            <a
+              href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/Newsletter.7th%20Grade.Cycle%201.pdf"
+              target="_blank"
+            >
               7th Grade Newsletter
             </a>
           </li>
           <li>
-            <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/8th%20Grade%20News%20Cycle%201%20-2018%20(1).pdf">
+            <a
+              href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/8th%20Grade%20News%20Cycle%201%20-2018%20(1).pdf"
+              target="_blank"
+            >
               8th Grade Newsletter - Cycle 1
             </a>
           </li>
           <li>
-            <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/8th%20Grade%20Newsletter%20Cycle%202.pdf">
+            <a
+              href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/8th%20Grade%20Newsletter%20Cycle%202.pdf"
+              target="_blank"
+            >
               8th Grade Newsletter - Cycle 2
             </a>
           </li>

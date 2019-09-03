@@ -13,7 +13,10 @@ class SeniorPage extends Component {
           information will be updated throughout the year.
         </p>
         <h4>
-          <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/Senior%20Dues_2018%20OK'd%20(1).pdf">
+          <a
+            href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/Senior%20Dues_2018%20OK'd%20(1).pdf"
+            target="_blank"
+          >
             Senior Dues
           </a>
         </h4>

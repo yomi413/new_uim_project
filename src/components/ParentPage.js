@@ -7,7 +7,10 @@ class ParentPage extends Component {
       <div>
         <NavBar />
         <h3>
-          <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.schools.nyc.gov/docs/default-source/default-document-library/school-calendar-2019-2020">
+          <a
+            href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.schools.nyc.gov/docs/default-source/default-document-library/school-calendar-2019-2020"
+            target="_blank"
+          >
             School Calendar 2019-2020
           </a>
         </h3>
@@ -28,7 +31,10 @@ class ParentPage extends Component {
         </ul>
 
         <h1>
-          <a href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/Coffee%20with%20the%20Prinicpal%20Meeting%20Dates..pdf">
+          <a
+            href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///Users/yomairaescano/Downloads/Coffee%20with%20the%20Prinicpal%20Meeting%20Dates..pdf"
+            target="_blank"
+          >
             Coffee with the Principal
           </a>
         </h1>
