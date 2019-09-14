@@ -6,14 +6,10 @@ class ParentPage extends Component {
     return (
       <div>
         <NavBar />
-        <h3>
-          <a
-            href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.schools.nyc.gov/docs/default-source/default-document-library/school-calendar-2019-2020"
-            target="_blank"
-          >
-            School Calendar 2019-2020
-          </a>
-        </h3>
+
+        <center>
+          <h1>Parents' Page</h1>
+        </center>
 
         <h1>SLT MEETING DATES</h1>
         <ul>
