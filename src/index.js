@@ -11,6 +11,7 @@ import StudentPage from "./components/StudentPage";
 import ParentPage from "./components/ParentPage";
 import SeniorPage from "./components/SeniorPage";
 import Policies from "./components/Policies";
+import Notices from "./Notices";
 
 ReactDOM.render(
   //   <Provider store={store}>
@@ -21,6 +22,7 @@ ReactDOM.render(
       <Route exact path="/parent-page" component={ParentPage} />
       <Route exact path="/senior-page" component={SeniorPage} />
       <Route exact path="/policies" component={Policies} />
+      <Route exact path="/notices" component={Notices} />
     </Switch>
   </Router>,
   //   </Provider>,
