@@ -19,12 +19,12 @@ class Home extends Component {
           <center>Welcome to the Urban Institute of Mathematics</center>
         </h1>
 
-        <h3>Our mission and vision</h3>
-
         <h4>
           <i>
-            "I'm going to college... It's never too early to start planning for
-            the rest of my life."
+            <center>
+              "I'm going to college... It's never too early to start planning
+              for the rest of my life."
+            </center>
           </i>
         </h4>
 
@@ -34,7 +34,24 @@ class Home extends Component {
           compete in the global economy and ever-changing marketplace.
         </p>
 
-        <SchoolHours />
+        <br />
+
+        <p>
+          <a
+            href="chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.schools.nyc.gov/docs/default-source/default-document-library/school-calendar-2019-2020"
+            target="_blank"
+          >
+            School Calendar 2019-2020
+          </a>
+        </p>
+
+        <p>
+          <a href="https://i.imgur.com/reJnSO3.jpg" target="_blank">
+            School Hours
+          </a>
+        </p>
+
+        {/* <SchoolHours /> */}
         <Footer />
       </div>
     );
