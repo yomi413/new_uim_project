@@ -26,8 +26,11 @@ class Policies extends Component {
         </p>
 
         <p>
-          The shoe policy has been been amended as of Summer 2019 and it is as
-          follows:
+          The shoe policy has been been amended as of Summer 2019 to make it
+          absolutely mandatory that all students wear only{" "}
+          <strong>black</strong> or <strong>brown</strong> shoes. Sneakers are
+          not permitted unless the student has gym. For more information see
+          attached link.
           <a href="https://i.imgur.com/1UDjBtB.jpg" target="_blank">
             Shoe Policy
           </a>
